@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>首页</string>
+		<key>iconName</key>
+		<string>home_l</string>
+		<key>iconNameH</key>
+		<string>home_h</string>
+		<key>className</key>
+		<string>HomeViewController</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>历史</string>
+		<key>iconName</key>
+		<string>new_l</string>
+		<key>iconNameH</key>
+		<string>new_h</string>
+		<key>className</key>
+		<string>HistoryViewController</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>我的</string>
+		<key>iconName</key>
+		<string>mine_l</string>
+        <key>iconNameH</key>
+        <string>mine_h</string>
+		<key>className</key>
+		<string>MineViewController</string>
+	</dict>
+</array>
+</plist>
